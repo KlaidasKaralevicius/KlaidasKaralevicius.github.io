@@ -33,6 +33,7 @@ section {
 /*----------------------------------------- header -----------------------------------------*/
 header {
   height: 100vh;
+  min-height: 600px;
   width: 320px;
   padding: 0;
   overflow-y: auto;
